@@ -33,7 +33,7 @@
 
 Déployez instantanément sur Heroku :
 
-[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/luffy8979/Zokou-MD-French)
+[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://gitlab.com/zokou1/zokou-Md-French.git)
 
 ---
 
@@ -125,7 +125,7 @@ const zokouEnv = {
 function cloneRepository() {
   const cloneResult = spawnSync("git", [
     "clone",
-    "https://github.com/luffy8979/Zokou-MD-French",
+    "https://gitlab.com/zokou1/zokou-Md-French.git",
     "zokou",
   ]);
 
@@ -212,12 +212,12 @@ startPm2();
 #### b. Méthode manuelle
 Pour une installation classique sur un panel ou un VPS :
 
-[![Download ZIP](https://img.shields.io/badge/Download-ZIP-blue?style=for-the-badge&logo=github)](https://github.com/luffy8979/Zokou-MD-French/archive/refs/heads/main.zip)
+[![Download ZIP](https://img.shields.io/badge/Download-ZIP-blue?style=for-the-badge&logo=github)](https://gitlab.com/zokou1/zokou-Md-French.git/archive/refs/heads/main.zip)
 
 ### 3. Hébergement VPS
 
 ```bash
-git clone https://github.com/luffy8979/Zokou-MD-French # (ou utilisez le ZIP)
+git clone https://gitlab.com/zokou1/zokou-Md-French.git # (ou utilisez le ZIP)
 cd Zokou-MD-French
 npm install
 npm start
@@ -258,7 +258,7 @@ OWNER_NUMBER="22891733300"       # Votre numéro WhatsApp
 ### 🌟 Soutiens Spéciaux
 
 - **La communauté Zokou** pour les tests et feedbacks  
-- **Contributors** sur GitHub ([Voir tous](https://github.com/luffy8979/Zokou-MD-French/graphs/contributors))  
+- **Contributors** sur GitHub ([Voir tous](https://gitlab.com/zokou1/zokou-Md-French.git/graphs/contributors))  
 - **Beta Testers** pour leur patience sur les versions instables 😅
 
 ### 📚 Bibliothèques Utilisées
