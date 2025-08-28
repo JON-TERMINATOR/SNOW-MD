@@ -212,7 +212,7 @@ startPm2();
 #### b. Méthode manuelle
 Pour une installation classique sur un panel ou un VPS :
 
-[![Download ZIP](https://img.shields.io/badge/Download-ZIP-blue?style=for-the-badge&logo=github)](https://gitlab.com/zokou1/zokou-Md-French.git/archive/refs/heads/main.zip)
+[![Download ZIP](https://img.shields.io/badge/Download-ZIP-blue?style=for-the-badge&logo=github)](https://gitlab.com/zokou1/zokou-Md-French/-/archive/main/zokou-Md-French-main.zip?ref_type=heads)
 
 ### 3. Hébergement VPS
 
